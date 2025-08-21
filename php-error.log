@@ -1,0 +1,45 @@
+[20-Aug-2025 10:38:37 Europe/Berlin] PHP Deprecated:  pg_escape_string(): Automatic fetching of PostgreSQL connection is deprecated in C:\xampp\htdocs\draftapp\sync.php on line 24
+[20-Aug-2025 10:38:37 Europe/Berlin] PHP Deprecated:  pg_escape_string(): Automatic fetching of PostgreSQL connection is deprecated in C:\xampp\htdocs\draftapp\sync.php on line 25
+[20-Aug-2025 10:38:37 Europe/Berlin] PHP Deprecated:  pg_escape_string(): Automatic fetching of PostgreSQL connection is deprecated in C:\xampp\htdocs\draftapp\sync.php on line 26
+[20-Aug-2025 10:45:51 Europe/Berlin] PHP Deprecated:  pg_escape_string(): Automatic fetching of PostgreSQL connection is deprecated in C:\xampp\htdocs\draftapp\sync.php on line 24
+[20-Aug-2025 10:45:51 Europe/Berlin] PHP Deprecated:  pg_escape_string(): Automatic fetching of PostgreSQL connection is deprecated in C:\xampp\htdocs\draftapp\sync.php on line 25
+[20-Aug-2025 10:45:51 Europe/Berlin] PHP Deprecated:  pg_escape_string(): Automatic fetching of PostgreSQL connection is deprecated in C:\xampp\htdocs\draftapp\sync.php on line 26
+[21-Aug-2025 15:49:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in C:\xampp\htdocs\draftapp\sync.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\draftapp\sync.php on line 16
+[21-Aug-2025 15:50:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in C:\xampp\htdocs\draftapp\sync.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\draftapp\sync.php on line 16
+[21-Aug-2025 15:51:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in C:\xampp\htdocs\draftapp\sync.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\draftapp\sync.php on line 16
+[21-Aug-2025 15:53:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in C:\xampp\htdocs\draftapp\sync.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\draftapp\sync.php on line 16
+[21-Aug-2025 15:55:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in C:\xampp\htdocs\draftapp\sync.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\draftapp\sync.php on line 16
+[21-Aug-2025 16:01:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in C:\xampp\htdocs\draftapp\sync.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\draftapp\sync.php on line 15
+[21-Aug-2025 16:01:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in C:\xampp\htdocs\draftapp\sync.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\draftapp\sync.php on line 15
+[21-Aug-2025 16:12:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in C:\xampp\htdocs\draftapp\sync.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\draftapp\sync.php on line 15
+[21-Aug-2025 16:12:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function pg_connect() in C:\xampp\htdocs\draftapp\sync.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\draftapp\sync.php on line 15
+[21-Aug-2025 16:19:19 Europe/Berlin] PHP Deprecated:  pg_escape_string(): Automatic fetching of PostgreSQL connection is deprecated in C:\xampp\htdocs\draftapp\sync.php on line 23
+[21-Aug-2025 16:19:19 Europe/Berlin] PHP Deprecated:  pg_escape_string(): Automatic fetching of PostgreSQL connection is deprecated in C:\xampp\htdocs\draftapp\sync.php on line 24
+[21-Aug-2025 16:19:19 Europe/Berlin] PHP Deprecated:  pg_escape_string(): Automatic fetching of PostgreSQL connection is deprecated in C:\xampp\htdocs\draftapp\sync.php on line 25
